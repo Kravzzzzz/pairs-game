@@ -1,0 +1,56 @@
+.field{
+  padding: 40px 15px;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
+
+.card{
+  padding: 30px;
+  height: 200px;
+  background-image: url('../images/back-side.jpg');
+  background-size: cover;
+  /* transition: background-image: .3s; */
+}
+
+/* .card:hover{
+  background-image: url('../images/back-side-hover.jpg')
+} */
+
+.image-1{
+  background-image: url('../images/1.jpg');
+}
+
+.image-2{
+  background-image: url('../images/2.jpg');
+}
+
+.image-3{
+  background-image: url('../images/3.jpg');
+}
+
+.image-4{
+  background-image: url('../images/4.jpg');
+}
+
+.image-5{
+  background-image: url('../images/5.jpg');
+}
+
+.image-6{
+  background-image: url('../images/6.jpg');
+}
+
+.image-7{
+  background-image: url('../images/7.jpg');
+}
+
+.image-8{
+  background-image: url('../images/8.jpg');
+}
+
+.image-9{
+  background-image: url('../images/9.jpg');
+}
