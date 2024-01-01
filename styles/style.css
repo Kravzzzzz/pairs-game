@@ -24,6 +24,7 @@ img{
   background-image: url('../images/back-side.jpg');
   background-size:contain;
   padding-bottom: 100%;
+  transition: all 0.3s ease-out;
 }
 
 .image-1{
